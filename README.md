@@ -15,7 +15,7 @@
 
 <div align="center">
 <a href="https://github.com/NathanMars">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMars&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMars&layout=compact&theme=dracula"/>
   </a> 
 </div>
 <br/>
