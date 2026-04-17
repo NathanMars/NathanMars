@@ -1,13 +1,13 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá,+meu+nome+é+Nathan+Marques.;Seja+bem-vindo(a)+ao+meu+perfil+GitHub!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🎓 Bacharelando em Sistemas de Informação na Universidade do Estado de Minas Gerais <br/>
-🖱️ Desenvolvedor Fullstack e Analista de Sistemas na Divisão de Processamento de Dados - Prefeitura Municipal de Passos
+🎓 Bacharel em Sistemas de Informação na Universidade do Estado de Minas Gerais <br/>
+🖱️ Desenvolvedor Fullstack
 
 ## Experiencia em
 <div>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,py,dotnet,spring,nodejs,ts,html,css,react,angular,mysql,postgres,mongodb,firebase,postman,docker,kubernetes,aws&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,py,dotnet,spring,nodejs,ts,html,react,next,angular,docker,kubernetes,azure,aws&perline=4" />
 
   </a>
 </p>
